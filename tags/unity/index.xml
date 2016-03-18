@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Qi Liu&#39;s Blog</title>
-    <link>http://qiliu.co/post/</link>
-    <description>Recent content in Posts on Qi Liu&#39;s Blog</description>
+    <title>Unity on Qi Liu&#39;s Blog</title>
+    <link>http://qiliu.co/tags/unity/</link>
+    <description>Recent content in Unity on Qi Liu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Fri, 18 Mar 2016 01:56:40 -0600</lastBuildDate>
-    <atom:link href="http://qiliu.co/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://qiliu.co/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>unity webGL test</title>
@@ -17,17 +17,6 @@
       
       <guid>http://qiliu.co/post/unity-webGL-test/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://qiliu.co/Thyroid/&#34;/a&gt;Click here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>http://qiliu.co/post/test-post/</link>
-      <pubDate>Thu, 17 Mar 2016 23:53:45 -0600</pubDate>
-      
-      <guid>http://qiliu.co/post/test-post/</guid>
-      <description>&lt;p&gt;This is a test post.
-Another story.&lt;/p&gt;
 </description>
     </item>
     
