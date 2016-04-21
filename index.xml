@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Fri, 18 Mar 2016 01:56:40 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2016 01:56:40 -0600</lastBuildDate>
     <atom:link href="http://qiliu.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>11 in 101</title>
+      <link>http://qiliu.co/post/11-in-101/</link>
+      <pubDate>Thu, 21 Apr 2016 01:56:40 -0600</pubDate>
+      
+      <guid>http://qiliu.co/post/11-in-101/</guid>
+      <description>&lt;p&gt;This post is inspired by the post &lt;a href=&#34;http://www.petitepearstyle.com/2015/12/101-in-1001.html&#34;&gt; &amp;ldquo;101 in 1001&amp;rdquo; &lt;/a&gt; by petitepearstyle. Since 1001 days can be quite a long time (nearly 3 years!), I decided to come up with a &amp;ldquo;11 in 101&amp;rdquo; list for the next 3 months, try to stick to it and see what I think on 31 July.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Complete my roadtest.&lt;/li&gt;
+&lt;li&gt;Take 1 step class and try a new one (aeal silks/ rock climbing classes seem a lot of fun!).&lt;/li&gt;
+&lt;li&gt;Enjoy 3 new books for inspiration.&lt;/li&gt;
+&lt;li&gt;Try the &amp;ldquo;loose effortless&amp;rdquo; hair look.&lt;/li&gt;
+&lt;li&gt;Take a cool pic.&lt;/li&gt;
+&lt;li&gt;Go on a picnic.&lt;/li&gt;
+&lt;li&gt;Spend a weekend completely offline.&lt;/li&gt;
+&lt;li&gt;Watch An Inspector Calls (if any good + And Then There Were None)&lt;/li&gt;
+&lt;li&gt;Come up with a plan of visiting Europe/ Japan.&lt;/li&gt;
+&lt;li&gt;Make significant progress in master thesis.&lt;/li&gt;
+&lt;li&gt;Try out hyped restaurants in Saskatoon.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Less procrastination and live in the moment:).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>things to do before turning 26</title>
+      <link>http://qiliu.co/post/things-before-26/</link>
+      <pubDate>Thu, 21 Apr 2016 01:56:40 -0600</pubDate>
+      
+      <guid>http://qiliu.co/post/things-before-26/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Ride a hot air balloon.&lt;/li&gt;
+&lt;li&gt;Watch a drive-in movie.&lt;/li&gt;
+&lt;li&gt;Go on a 3h hike.&lt;/li&gt;
+&lt;li&gt;Get my driver&amp;rsquo;s license.&lt;/li&gt;
+&lt;li&gt;Go on a road trip.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>unity webGL test</title>
@@ -36,7 +78,7 @@
       <pubDate>Thu, 17 Mar 2016 23:53:45 -0600</pubDate>
       
       <guid>http://qiliu.co/post/test-post/</guid>
-      <description>&lt;p&gt;This is a test post.
+      <description>&lt;p&gt;This is a test post.\n
 Another story.&lt;/p&gt;
 </description>
     </item>
